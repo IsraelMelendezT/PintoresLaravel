@@ -1,0 +1,16 @@
+<div>
+    @section('inicio')
+        @show
+    @section('daVinci')
+        @show
+    @section('diego')
+        @show
+    @section('munch')
+        @show
+    @section('vanGogh')
+        @show    
+    @section('toru')
+        @show 
+    @section('login')
+        @show 
+</div>
